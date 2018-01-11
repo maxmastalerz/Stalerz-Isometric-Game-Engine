@@ -1,5 +1,5 @@
 # Stalerz Isometric Game Engine (Pseudo-3D)
-The Stalerz isometric game engine was an attempt at created an HTML5 canvas-based tool for game developers to use. **The full project has been lost.** Only an old version could be recovered. It has been uploaded here as a portfolio piece. A demo of this old version can be found @
+The Stalerz isometric game engine was an attempt at creating an HTML5 canvas-based tool for game developers to use. **The full project has been lost.** Only an old version could be recovered. It has been uploaded here as a portfolio piece. A demo of this old version can be found @
 
 http://stalerz.herokuapp.com
 
